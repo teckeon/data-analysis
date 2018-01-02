@@ -1,3 +1,3 @@
 # Python Data Analysis
 
-## On Twitter Data! With Awesomeness Gurantee!
+## On Twitter Data! With Awesomeness Guaranteed!
